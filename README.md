@@ -6,4 +6,4 @@ Bruteforce Instagram
 # pkg install git
 # git clone https://github.com/Makky2693/Insta-Hack
 # cd Insta-Hack
-# sh Insta-Hack.sh
+# bash Insta-Hack.sh
